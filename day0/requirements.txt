@@ -1,0 +1,6 @@
+langchain[mcp]>=1.4.0
+langchain-groq
+langgraph>=1.1
+fastmcp
+python-dotenv
+pydantic
